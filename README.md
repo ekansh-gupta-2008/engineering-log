@@ -1,7 +1,5 @@
 <div align="center">
 
-# Thapar → Germany 🇩🇪
-
 **BE Mechanical Engineering @ Thapar Institute · 2026–2030**  
 Target: MSc Automotive Engineering, Germany · Expected 2032
 
