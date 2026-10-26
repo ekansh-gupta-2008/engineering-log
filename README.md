@@ -17,8 +17,8 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 |-------|--------------|--------|-----------|
 | CAD | Fusion 360 → CATIA/NX (Sem 4) | Paused since 19 Jul — pre-college scope complete (30-day course + static suspension corner) | Resume once Sem 1 timetable is set |
 | Python | CS50P → numpy/matplotlib → automotive data | Wk 0–6 ✅ · Wk 7 (Regex) in progress | Engineering calculator final project |
-| German | **VHS-Lernportal** (a1.vhs-lernportal.de) — single structured A1–C1 track, on a 1-week trial from 11 Aug | Duolingo (optional 5-min warm-up), Nicos Weg (passive listening), Menschen A1 (grammar reference) — all demoted from active tracks | Goethe A1 exam — Jan 2027, Goethe-Institut New Delhi |
-| MATLAB/Simulink | Vehicle dynamics models | From Sem 2 | — |
+| German | **VHS-Lernportal** (a1.vhs-lernportal.de) — single structured A1–C1 track, on a 1-week trial from 11 Aug | Duolingo (optional 5-min warm-up), Nicos Weg (passive listening), Menschen A1 (grammar reference) — all demoted from active tracks | Goethe A1 exam — 2027, Goethe-Institut New Delhi |
+| MATLAB/Simulink | Vehicle dynamics models | — | — |
 | ANSYS | Structural FEA + thermal CFD | From Sem 3 | — |
 
 ---
@@ -30,15 +30,8 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 **Setup:**
 - Freshmen Boot Camp & Orientation: 3–16 Aug 2026
 - Academic classes began 17 Aug 2026
-- Daily anchor restored 4 Aug: German (8:30–9:30 PM) + GitHub commit
+- Daily anchor restored 4 Aug
 
-**Python — CS50P:** Week 6 done, Week 7 (Regex) next, worked into free morning blocks.
-
-**CAD:** Paused, no fixed resume date — waiting on the Sem 1 lecture timetable to slot it in alongside fixed class blocks.
-
-**German:** Overhauled 11 Aug — see status table above.
-
-**Upcoming:** Society Fair, 19 Aug — SAE Thapar + GDSC Thapar recruitment window.
 
 ---
 
@@ -48,7 +41,7 @@ A 4-year public log of everything I'm learning toward a German MSc in Automotive
 - Suspension corner portfolio project: **complete** ✅ — static double wishbone assembly (lower A-arm, upper A-arm, upright, hub, brake disc), rebuilt after a first attempt had incorrect anatomy
 - Python: CS50P Wk 0–6 complete ✅ (Wk 6 File I/O finished 19 Jul)
 - German: LT Track 15 complete (final track, course finished) · Easy German (Slow German) Ep 1–30 complete (finished) · Anki discontinued · Nicos Weg frozen at ep 26 (reference only)
-- AI-900: passed ✅ (exam taken Jun 29, 2026 via OnVUE) — certificate posted to LinkedIn
+- AI-900: passed ✅ (June 29, 2026) — certificate posted to LinkedIn
 - GitHub: commits ongoing since Day 1
 
 Phase closed 3 Aug 2026 as Freshmen Boot Camp began.
